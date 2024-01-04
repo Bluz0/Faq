@@ -1,3 +1,11 @@
-<h1 align=center>Faq Card in HTML CSS JAVASCRIPT</h1>
+<h1 align="center">Faq Card in HTML CSS JAVASCRIPT</h1>
 
 ![Faq card](images/first.png "The Faq Card")
+
+### Interaction
+
+![Faq card interactive](images/second.png "Interaction")
+<p align="center">Here is our card, we can click on one of the button and an other block appear !
+GIVE ME YOUR MONEY, CASH, DOLLAR, ARGENT , FLOUSSE...etc $$$
+</p>
+
