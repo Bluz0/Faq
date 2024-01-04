@@ -15,9 +15,9 @@ For this, we add an overflow:hidden; at faq card. After that we add the woman wi
 
 ![](images/third.png)
 
-### The Responsive
+<h1 align="center">The Responsive</h1> 
 
-![](images/five.png)
+![](images/six.png)
 
 
 
